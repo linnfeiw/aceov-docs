@@ -1,2 +1,1 @@
-# 💵 Download the ACEOV App
-
+# 📲 Download the ACEOV App

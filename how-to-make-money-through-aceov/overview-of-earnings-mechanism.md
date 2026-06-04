@@ -1,14 +1,14 @@
-# 🇺🇸 Overview of Earnings Mechanism
+# 💾 Overview of Earnings Mechanism
 
-<figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-zFqt1dip6DwbSOFxpUfC-SY-IoAI7P.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/images/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-zFqt1dip6DwbSOFxpUfC-SY-IoAI7P.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:purple;">**🌟 User Level System Overview (ACEOV User Incentive Model)**</mark>
+### <mark style="color:purple;">**🌟 User Level System Overview (ACEOV User Incentive Model)**</mark>&#x20;
 
 To stimulate ecosystem activity, ACEOV has established a **three-tier user system**. Rewards and benefits are granted based on **trading activity, community expansion, asset contribution, and referral structure**.
 
 ***
 
-### <mark style="color:purple;">✅</mark> <mark style="color:purple;">**Level Description & Upgrade Conditions**</mark>
+### <mark style="color:purple;">✅</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Level Description & Upgrade Conditions**</mark>
 
 * **Basic Requirement:** Single or cumulative deposit ≥ 38 USDT to unlock basic trading functions and become an **“active user”**.
 * When promoted to each new level, the team size will be recalculated. The number of members accumulated from previous levels will no longer be carried over, and the requirements must be met again according to the criteria of the current level.

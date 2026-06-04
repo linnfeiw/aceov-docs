@@ -1,4 +1,4 @@
-# 🇹🇿 Withdrawal Guide
+# Withdrawal Guide
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2Ff4UAGupVKFZQFkDwICnh%2Ftx.mp4?alt=media&token=e5672725-244e-459b-8a1f-d1a229bb04ad" %}
 
@@ -10,11 +10,11 @@
 
 4.Choose Blockchain (TRC20)
 
-5.Enter the Withdrawal Address
+5.Enter the&#x20;Withdrawal Address
 
-6.Enter the Withdrawal Amount
+6.Enter the&#x20;Withdrawal Amount
 
-7.Click Apply for Withdrawal
+7.Click Apply for&#x20;Withdrawal
 
 {% hint style="info" %}
 ACEOV always places **user fund security first** . A strict verification process ensures that every withdrawal goes through **multiple security checks**. While the platform promises to complete withdrawals within **96 hours** , funds usually arrive faster if there are no account anomalies.
