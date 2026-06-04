@@ -1,8 +1,8 @@
 # ACEOV Community Star-Level Monthly Salary
 
-<figure><img src="../assets/images/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-Ri8KOdzjVhh03S6NI8r2-5-vWoZuZ.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-Ri8KOdzjVhh03S6NI8r2-5-vWoZuZ.jpg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">🌟</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Star Level Advancement Reward Plan Overview**</mark>
+### <mark style="color:blue;">🌟</mark> <mark style="color:blue;">**Star Level Advancement Reward Plan Overview**</mark>
 
 To encourage team growth and improve member activity, the company has launched the **Star Level Advancement Reward Plan**. When users reach the corresponding star level, they can not only receive advancement rewards but also enjoy weekly salary rewards .
 
@@ -35,7 +35,7 @@ Requirements:
 
 #### 🌟 Star Level 3 (Weekly Salary: 500 USDT)
 
-Advancement reward: **500 USDT**  (when upgrading from Star 2 to Star 3)\
+Advancement reward: **500 USDT** (when upgrading from Star 2 to Star 3)\
 Requirements:
 
 * At least **3 direct A-level members reach Star Level 2**
@@ -53,7 +53,7 @@ Requirements:
 
 #### 🌟 Star Level 5 (Weekly Salary: 5000 USDT)
 
-Advancement reward: **5000 USDT**  (when upgrading from Star 4 to Star 5)\
+Advancement reward: **5000 USDT** (when upgrading from Star 4 to Star 5)\
 Requirements:
 
 * At least **4 direct A-level members reach Star Level 4**
@@ -62,7 +62,7 @@ Requirements:
 
 #### 🌟 Star Level 6 and above
 
-Same structure applies&#x20;
+Same structure applies
 
 ***
 
@@ -77,7 +77,7 @@ Eligibility begins from the **following Monday** .
 
 * Reviews are conducted every **Monday**
 * Weekly salary must be **reviewed and approved by a manager**
-* After approval, funds will be sent to your **crypto wallet**&#x20;
+* After approval, funds will be sent to your **crypto wallet**
 
 ***
 
@@ -87,7 +87,7 @@ To continuously receive weekly salary, you must complete team growth targets:
 
 #### 👥 Team Growth Requirement
 
-Members within your **3-level team (A/B/C levels)** must achieve a **30% weekly increase in active users**&#x20;
+Members within your **3-level team (A/B/C levels)** must achieve a **30% weekly increase in active users**
 
 📊 **Example:**
 
@@ -101,7 +101,7 @@ If your team has **20 members**:
 * 30% growth = **6 new members**
 * You must add **6 new valid members per week**
 
-And so on&#x20;
+And so on
 
 ***
 
@@ -109,15 +109,15 @@ And so on&#x20;
 
 If you exceed the 30% weekly growth target:
 
-* For every **extra valid new member**, you earn **10 USDT extra bonus**&#x20;
+* For every **extra valid new member**, you earn **10 USDT extra bonus**
 
 #### Example:
 
 If the target is 3 new members but you add 6:
 
-* Base requirement met → weekly salary granted&#x20;
+* Base requirement met → weekly salary granted
 * Extra members: 3
-* Bonus: **3 × 10 = 30 USDT**&#x20;
+* Bonus: **3 × 10 = 30 USDT**
 
 ***
 
@@ -127,15 +127,15 @@ As long as the team continues to meet the weekly growth requirements:
 
 ✅ Weekly salary can be collected continuously\
 ✅ Rewards accumulate over time\
-✅ All payments are issued to your personal wallet&#x20;
+✅ All payments are issued to your personal wallet
 
 ***
 
 ### <mark style="color:$primary;">📌 Key Summary</mark>
 
-* Higher star level = higher weekly salary&#x20;
-* After promotion, weekly salary starts from the next Monday&#x20;
-* Must achieve **30% weekly growth within 3-level team**&#x20;
-* Extra valid users = extra bonuses&#x20;
+* Higher star level = higher weekly salary
+* After promotion, weekly salary starts from the next Monday
+* Must achieve **30% weekly growth within 3-level team**
+* Extra valid users = extra bonuses
 * Salary must be manually claimed after approval
-* Faster team growth = higher earnings&#x20;
+* Faster team growth = higher earnings

@@ -1,11 +1,11 @@
-# Summary
+# Table of contents
 
-* [About ACEOV](README.md)
+* [💵 About ACEOV](README.md)
 
 ## About ACEOV
 
-* [Company Introduction](aceov/about-aceov/company-introduction.md)
-* [ACEOV Certificate Display](aceov/about-aceov/aceov-certificate-display.md)
+* [🌈 Company Introduction](aceov/about-aceov/company-introduction.md)
+* [🔥 ACEOV Certificate Display](aceov/about-aceov/aceov-certificate-display.md)
 * [ACEOV Revenue Sources](aceov/about-aceov/aceov-revenue-sources.md)
 * [ACEOV Future Outlook & Trends](aceov/about-aceov/aceov-future-outlook-and-trends.md)
 

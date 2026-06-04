@@ -1,6 +1,6 @@
 # Quantitative Room Promotion Rules
 
-<figure><img src="../assets/images/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-G4Bi18ZJAoGgWMCkqZoA-d-kigrTB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-G4Bi18ZJAoGgWMCkqZoA-d-kigrTB.png" alt=""><figcaption></figcaption></figure>
 
 The **ACEOV Quantitative Platform** adopts a multi-tier membership promotion system designed to provide users with rich incentive mechanisms . Users can qualify for promotions by increasing trading volume, contributing funds, and referring new users , thereby enjoying higher returns and more premium services .\
 This promotion mechanism is designed to enhance user activity and loyalty, creating a **win-win ecosystem** for both the platform and its users .

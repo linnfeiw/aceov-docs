@@ -1,18 +1,16 @@
 # ACEOV Compound Interest Earnings Guide
 
-<figure><img src="../assets/images/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-1GFh0ByPdxQ4RMmVNj4V-FULI-TbOXb7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-1GFh0ByPdxQ4RMmVNj4V-FULI-TbOXb7.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
-
-### <mark style="color:blue;">📊</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Earnings Range**</mark>
+### <mark style="color:blue;">📊</mark> <mark style="color:blue;">**Earnings Range**</mark>
 
 * **Daily Return Rate:** **1.5% – 4.6%**
 * Returns may fluctuate with market conditions, but **long-term earnings tend to stabilize** through intelligent strategies.
-  {% endstep %}
+{% endstep %}
 
 {% step %}
-
 ### <mark style="color:blue;">🔄</mark><mark style="color:blue;">**Principle of Compound Interest**</mark>
 
 Compound interest means that investment earnings are **reinvested into the principal**, and the next period’s earnings are calculated based on the new principal, achieving “interest on interest.”
@@ -27,11 +25,10 @@ Where:
 * **P**: Initial investment
 * **r**: Daily return rate (in decimal, e.g., 1.5% = 0.015)
 * **n**: Number of compounding periods (days)
-  {% endstep %}
+{% endstep %}
 
 {% step %}
-
-### <mark style="color:blue;">**📈 Compound Interest Example (Daily Return Rate 2.5%)**</mark>&#x20;
+### <mark style="color:blue;">**📈 Compound Interest Example (Daily Return Rate 2.5%)**</mark>
 
 Assume an investment of **$1000** with a daily return rate of **2.5%**, compounded for **30 days**:
 
@@ -48,11 +45,10 @@ The initial $1000 grows to approximately $2097 in 30 days,\
 {% endstep %}
 
 {% step %}
-
-### <mark style="color:blue;">**🌟 Advantages of Compound Interest**</mark>&#x20;
+### <mark style="color:blue;">**🌟 Advantages of Compound Interest**</mark>
 
 * **Earnings Accumulation:** Daily profits are added to the principal, increasing future returns.
 * **Time Value:** The longer the investment period, the more significant the compound effect.
 * **Flexible Operation:** Users can choose to reinvest daily or withdraw part of the earnings, allowing flexible fund management.
-  {% endstep %}
-  {% endstepper %}
+{% endstep %}
+{% endstepper %}

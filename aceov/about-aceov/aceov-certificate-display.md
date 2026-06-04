@@ -1,24 +1,24 @@
-# ACEOV Certificate Display
+# 🔥 ACEOV Certificate Display
 
-{% file src="../../assets/files/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-kC0DnqsHkFKNyeZ3dKAv-Certificate-of-Registration-6jDbiC.pdf" %}
+{% file src="../../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-kC0DnqsHkFKNyeZ3dKAv-Certificate-of-Registration-6jDbiC.pdf" %}
 
-<figure><img src="../../assets/images/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-sgBhyR9Gnvg9p2JcQwdK-ZC-YZNK9G.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-{% file src="../../assets/files/Certificate-of-Good-Standing-L1JiSs.pdf" %}
-
-<figure><img src="../../assets/images/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-dHqpX5NeprKodnhytG00-LH-wZXzaX.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-sgBhyR9Gnvg9p2JcQwdK-ZC-YZNK9G.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-{% file src="../../assets/files/MSB-Registration-Certificate-fB7RLK.pdf" %}
+{% file src="../../.gitbook/assets/Certificate-of-Good-Standing-L1JiSs.pdf" %}
 
-<figure><img src="../../assets/images/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-Q6bdZcdATAIe9d4ViVtT-msb_ACEOV-DIGITAL-SYSTEMS-LTD-tboddx.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-dHqpX5NeprKodnhytG00-LH-wZXzaX.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+{% file src="../../.gitbook/assets/MSB-Registration-Certificate-fB7RLK.pdf" %}
+
+<figure><img src="../../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-Q6bdZcdATAIe9d4ViVtT-msb_ACEOV-DIGITAL-SYSTEMS-LTD-tboddx.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 🔍 **How to Check MSB Information**
 
-<https://www.fincen.gov/msb-state-selector>
+[https://www.fincen.gov/msb-state-selector](https://www.fincen.gov/msb-state-selector)
 
 **Search by Company Name**
 
@@ -34,4 +34,4 @@
 2. **31000324932745**
 3. A new page will appear, showing the company’s detailed information.
 
-*(If you see a blank page, scroll up.)*
+_(If you see a blank page, scroll up.)_
