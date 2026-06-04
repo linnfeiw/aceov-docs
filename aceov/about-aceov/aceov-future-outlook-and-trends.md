@@ -1,6 +1,6 @@
 # ACEOV Future Outlook & Trends
 
-{% embed url="<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FualdlB3LYUPZhH40Gb1f%2Fwl.mp4?alt=media&token=88cdd03b-d681-4b62-9b32-ca6cb05d0450>" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FualdlB3LYUPZhH40Gb1f%2Fwl.mp4?alt=media&token=88cdd03b-d681-4b62-9b32-ca6cb05d0450" %}
 
 As an innovative company focused on fintech and blockchain, ACEOV will continue to prioritize **technology-driven growth, global expansion, and ecosystem co-building** to ensure steady platform development.
 
