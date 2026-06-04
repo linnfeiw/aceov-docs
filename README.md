@@ -1,6 +1,6 @@
 # About ACEOV
 
-{% embed url="<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2Fdt2EIGATBy313AJTo1xp%2FACEOV.mp4?alt=media&token=4d9718e0-bf79-48b9-9013-723e585d8ce0>" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2Fdt2EIGATBy313AJTo1xp%2FACEOV.mp4?alt=media&token=4d9718e0-bf79-48b9-9013-723e585d8ce0" %}
 
 ACEOV DIGITAL SYSTEMS LTD. was established in 2021 in London, United Kingdom, with its headquarters located in Colorado, USA. As an innovative company focused on finance and blockchain technology, ACEOV was founded by an experienced professional team dedicated to applying advanced intelligent trading technologies and artificial intelligence solutions in the field of high-frequency cryptocurrency quantitative trading.
 

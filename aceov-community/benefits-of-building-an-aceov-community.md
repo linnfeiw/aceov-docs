@@ -1,6 +1,6 @@
 # Benefits of Building an ACEOV Community
 
-{% embed url="<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2F3cruPOEdF4kyWhqKAZwk%2Fhc.mp4?alt=media&token=6373816e-7d6e-4d6b-8044-342c198ae6b1>" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2F3cruPOEdF4kyWhqKAZwk%2Fhc.mp4?alt=media&token=6373816e-7d6e-4d6b-8044-342c198ae6b1" %}
 
 Building an ACEOV community not only helps team leaders expand their influence but also provides multiple income and growth opportunities. Specific benefits include:
 

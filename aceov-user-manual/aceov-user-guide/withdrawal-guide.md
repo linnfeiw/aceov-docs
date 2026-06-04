@@ -1,6 +1,6 @@
 # Withdrawal Guide
 
-{% embed url="<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2Ff4UAGupVKFZQFkDwICnh%2Ftx.mp4?alt=media&token=e5672725-244e-459b-8a1f-d1a229bb04ad>" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2Ff4UAGupVKFZQFkDwICnh%2Ftx.mp4?alt=media&token=e5672725-244e-459b-8a1f-d1a229bb04ad" %}
 
 1.Click Withdraw
 

@@ -1,8 +1,8 @@
 # Company Introduction
 
-{% file src="../../assets/files/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-DrQf7HzZEo56SZLungwY-ACEOV-White-Paper-vYQiTP.pdf" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FbYS7ACfNpfQ1n7JkvXgl%2FACEOV.mp4?alt=media&token=4dc56c89-112c-446b-b8a7-772bb54e9ce6" %}
 
-{% embed url="<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FbYS7ACfNpfQ1n7JkvXgl%2FACEOV.mp4?alt=media&token=4dc56c89-112c-446b-b8a7-772bb54e9ce6>" %}
+{% file src="../../assets/files/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-DrQf7HzZEo56SZLungwY-ACEOV-White-Paper-vYQiTP.pdf" %}
 
 Founded in London, UK, with its headquarters located in Colorado, USA, ACEOV is an innovative company specializing in **blockchain technology**, quantitative trading, AI algorithms, and digital financial services. Our business spans diversified areas, including asset custody, cloud services, digital payments, and crypto derivatives.
 

@@ -1,6 +1,6 @@
 # ACEOV Revenue Sources
 
-{% embed url="<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FeDsbPNOSa3kulfICGL9y%2Fsr.mp4?alt=media&token=993bb054-e86e-4db8-9eff-35f4945acc08>" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FeDsbPNOSa3kulfICGL9y%2Fsr.mp4?alt=media&token=993bb054-e86e-4db8-9eff-35f4945acc08" %}
 
 ### <mark style="color:purple;">**🤖Intelligent Quantitative Trading Profits**</mark>
 

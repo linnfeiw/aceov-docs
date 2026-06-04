@@ -1,6 +1,6 @@
 # Change Trading Password Guide
 
-{% embed url="<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FyRH7irNLTTDPWWLiLPvt%2FJY.mp4?alt=media&token=477feb26-6a07-4bb7-b504-415902ee9d8e>" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FyRH7irNLTTDPWWLiLPvt%2FJY.mp4?alt=media&token=477feb26-6a07-4bb7-b504-415902ee9d8e" %}
 
 1.Click Mine
 
