@@ -1,4 +1,4 @@
-# ACEOV Flexible Funds & Pending Funds Explanation
+# 🇺🇿 ACEOV Flexible Funds & Pending Funds Explanation
 
 <figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-fW6YqT9mFIvy4DL5nfEi-zijin-9PQaXi.png" alt=""><figcaption></figcaption></figure>
 

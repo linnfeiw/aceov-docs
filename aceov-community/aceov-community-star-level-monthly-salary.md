@@ -1,4 +1,4 @@
-# ACEOV Community Star-Level Monthly Salary
+# 🇧🇮 ACEOV Community Star-Level Monthly Salary
 
 <figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-Ri8KOdzjVhh03S6NI8r2-5-vWoZuZ.jpg" alt=""><figcaption></figcaption></figure>
 

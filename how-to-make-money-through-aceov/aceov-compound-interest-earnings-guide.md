@@ -1,4 +1,4 @@
-# ACEOV Compound Interest Earnings Guide
+# 🇲🇦 ACEOV Compound Interest Earnings Guide
 
 <figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-1GFh0ByPdxQ4RMmVNj4V-FULI-TbOXb7.png" alt=""><figcaption></figcaption></figure>
 

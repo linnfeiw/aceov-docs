@@ -1,4 +1,4 @@
-# Quantitative Room Promotion Rules
+# 🇰🇾 Quantitative Room Promotion Rules
 
 <figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-G4Bi18ZJAoGgWMCkqZoA-d-kigrTB.png" alt=""><figcaption></figcaption></figure>
 

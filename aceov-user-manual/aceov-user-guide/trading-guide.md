@@ -1,4 +1,4 @@
-# Trading Guide
+# 🇧🇫 Trading Guide
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRlCLM4c4ed9z3HZ5IC0t%2Fuploads%2FD53S5C4X1ajHrWqpII6y%2Fjy.mp4?alt=media&token=3a0ed2b9-1683-48e0-b6c0-6734ca79cef0" %}
 
@@ -8,23 +8,22 @@
 
 3.Click Start Quantization
 
-4.The Quantization Order&#x20;Runs Successfully
+4.The Quantization Order Runs Successfully
 
 {% hint style="info" %}
-
-1. **Starter Fund Amount**&#x20;
+1. **Starter Fund Amount**
 
 * Upon successful registration, the system will grant **$300 as starter funds**.
 
-2. **Earnings Rules**&#x20;
+2. **Earnings Rules**
 
 * The **starter fund yield** is **1.5%–1.8% daily**, generating approximately **$4.5 in earnings per day**.
 
-3. **Earnings Period**&#x20;
+3. **Earnings Period**
 
 * After **2 days**, users can accumulate around **$9 in profit**.
 
-4. **Withdrawal Instructions**&#x20;
+4. **Withdrawal Instructions**
 
 * The **$300 starter fund cannot be withdrawn**, but **all profits generated from it belong to the user**.
-  {% endhint %}
+{% endhint %}

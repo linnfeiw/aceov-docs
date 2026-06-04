@@ -1,4 +1,4 @@
-# Overview of Earnings Mechanism
+# 🇺🇸 Overview of Earnings Mechanism
 
 <figure><img src="../.gitbook/assets/spaces-RlCLM4c4ed9z3HZ5IC0t-uploads-zFqt1dip6DwbSOFxpUfC-SY-IoAI7P.png" alt=""><figcaption></figcaption></figure>
 
