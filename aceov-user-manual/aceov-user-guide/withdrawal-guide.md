@@ -10,14 +10,17 @@
 
 4.Choose Blockchain (TRC20)
 
-5.Enter the&#x20;Withdrawal Address
+5.Enter the
+&#x20;Withdrawal Address
 
-6.Enter the&#x20;Withdrawal Amount
+6.Enter the
+&#x20;Withdrawal Amount
 
-7.Click Apply for&#x20;Withdrawal
+7.Click Apply for
+&#x20;Withdrawal
 
 {% hint style="info" %}
-ACEOV always places **user fund security first** . A strict verification process ensures that every withdrawal goes through **multiple security checks**. While the platform promises to complete withdrawals within **96 hours** , funds usually arrive faster if there are no account anomalies.
+ACEOV always places **user fund security first** . A strict verification process ensures that every withdrawal goes through **multiple security checks**. While the platform promises to complete withdrawals within **72 hours** , funds usually arrive faster if there are no account anomalies.
 
-The **minimum withdrawal amount is $50** , and a **5% platform fee** applies. This process is designed to **maximize fund safety**, minimize potential risks, and provide a **secure, stable, and reliable service experience** for users.
+The **minimum withdrawal amount is $30** , and a **5% platform fee** applies. This process is designed to **maximize fund safety**, minimize potential risks, and provide a **secure, stable, and reliable service experience** for users.
 {% endhint %}
