@@ -13,19 +13,4 @@
 
 {% hint style="info" %}
 
-1. **Starter Fund Amount**&#x20;
 
-* Upon successful registration, deposit  **$300 as starter funds**.
-
-2. **Earnings Rules**&#x20;
-
-* The **starter fund yield** is **1.5%–1.8% daily**, generating approximately **$4.5 in earnings per day**.
-
-3. **Earnings Period**&#x20;
-
-* After **2 days**, users can accumulate around **$9 in profit**.
-
-4. **Withdrawal Instructions**&#x20;
-
-* The **$300 starter fund cannot be withdrawn**, but **all profits generated from it belong to the user**.
-  {% endhint %}
