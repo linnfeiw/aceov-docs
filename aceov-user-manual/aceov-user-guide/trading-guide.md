@@ -15,7 +15,7 @@
 
 1. **Starter Fund Amount**&#x20;
 
-* Upon successful registration, deposit a minimum of **$30 as starter funds**.
+* Upon successful registration, deposit  **$300 as starter funds**.
 
 2. **Earnings Rules**&#x20;
 
