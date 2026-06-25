@@ -10,7 +10,3 @@
 
 4.The Quantization Order
 &#x20;Runs Successfully
-
-{% hint style="info" %}
-
-
