@@ -1,6 +1,6 @@
 # 🧰 ACEOV Growth Center · Reward Details
 
-💰 **Minimum Participation Deposit:** **100 USDT**
+💰 **Minimum Participation Deposit:** **30 USDT**
 
 🔥 Complete tasks to unlock higher-level treasure chests and earn bigger rewards!
 
