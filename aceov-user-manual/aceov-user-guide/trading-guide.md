@@ -8,13 +8,14 @@
 
 3.Click Start Quantization
 
-4.The Quantization Order&#x20;Runs Successfully
+4.The Quantization Order
+&#x20;Runs Successfully
 
 {% hint style="info" %}
 
 1. **Starter Fund Amount**&#x20;
 
-* Upon successful registration, the system will grant **$300 as starter funds**.
+* Upon successful registration, deposit a minimum of **$30 as starter funds**.
 
 2. **Earnings Rules**&#x20;
 
