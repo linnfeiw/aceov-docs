@@ -21,5 +21,5 @@ click the Recharge icon.
 {% hint style="info" %}
 The **minimum deposit** is **$30**.
 
-During promotional periods, a deposit of **only $38** is enough to become an **active member**, easily unlocking **exclusive benefits**.
+During promotional periods, a deposit of **only $32** is enough to become an **active member**, easily unlocking **exclusive benefits**.
 {% endhint %}
